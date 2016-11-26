@@ -1,0 +1,191 @@
+{
+    "data": [
+        {
+            "text": "Contractual Risks",
+            "id": "Contractual risks are linked to existing market positions in securities or derivatives, lending products, internal and external performance contracts",
+            "children": [
+                {
+                    "text": "Insurance Risk",
+                    "id": "Risks linked to underwritten liabilities for any of the defined types of insurance policies",
+                    "children": [
+                        {
+                          "text": "Life Insurance",
+                          "id": "Risks linked to the underwriting of life insurance policies, such as deviations from standard mortality rates or lapses and revisions to policies"
+                        },
+                        {
+                          "text": "Health Insurance",
+                          "id": "Risks linked to the underwriting of health insurance policies, such as deviations from standard sickness rates or lapses and revisions to policies"
+                        },
+                        {
+                          "text": "Motor Insurance",
+                          "id": "Risks linked to the underwriting of motor (car) insurance policies, such as deviations from standard claim rates or lapses and revisions to policies"
+                        },
+                        {
+                          "text": "Property Insurance",
+                          "id": "Risks linked to the underwriting of property insurance policies, such as deviations from standard claim rates or lapses and revisions to policies"
+                        },
+                        {
+                          "text": "Liability Insurance",
+                          "id": "Risks linked to the underwriting of liability insurance policies, such as deviations from standard claim rates or lapses and revisions to policies"
+                        }
+                    ]
+                },
+                {
+                    "text": "Market Risk",
+                    "id": "Risks linked to traded markets positions or banking book positions affected by market price level, volatility, correlations or liquidity",
+                    "children": [
+                        {
+                          "text": "Price Risk",
+                          "id": "Risks linked to the level and volatility of a given market"
+                        },
+                        {
+                          "text": "Correlation Risk",
+                          "id": "Risks linked to the correlation (dependency) of different markets"
+                        },
+                        {
+                          "text": "Market Liquidity",
+                          "id": "The risk of wide(r) bid/ask spreads or even complete market dislocation (jumpt risk)"
+                        },
+                        {
+                          "text": "Valuation Risk",
+                          "id": "Valuation risk applies to illiquid products which may require unobservable and model based parameters for marking-to-market"
+                        },
+                        {
+                          "text": "Hedging Risk",
+                          "id": "Hedging risk applies to illiquid products when certain elements of market risk are to hedged away on the basis of model derived hedges. Includes basis risk"
+                        }
+                    ]
+                },
+                {
+                    "text": "Credit Risk",
+                    "id": "Risks arising from credit events (default, bankruptcy) associated with a legal entity reneging on its contractual obligations (for payment)",
+                    "children": [
+                        {
+                          "text": "Probability of Default",
+                          "id": "The risk of a credit event. Typically a credit term structure. Regulatory credit models simplify to 1-yr estimate"
+                        },
+                        {
+                          "text": "Exposure at Default",
+                          "id": "The risk that the exposure at default may be differ from current exposure"
+                        },
+                        {
+                          "text": "Loss given default",
+                          "id": "Uncertainty about the loss given a credit event (complementary to recovery risk)"
+                        },
+                        {
+                          "text": "Credit Loss Dependency",
+                          "id": "Uncertainty about joint default events (correlation, dependency or contagion)"
+                        }
+                    ]
+                },
+                {
+                    "text": "Optionality Risk",
+                    "id": "Risks in products with optional features (non-linear payoffs)",
+                    "children": [
+                        {
+                          "text": "Prepayment Risk",
+                          "id": "The risk that clients who borrowed funds will prepay these funds earlier than expected due to a reduction in prevailing interest rates"
+                        },
+                        {
+                          "text": "Draw-down Risk",
+                          "id": "The risk that clients with credit lines will draw on these at amounts different than expected due to their individual or market circumstances"
+                        }
+                    ]
+                },
+                {
+                    "text": "Human Resources Risk",
+                    "id": "Risks linked to agreements with current employees and liabilities to these previously employed",
+                    "children": [
+                        {
+                          "text": "Performance Risk",
+                          "id": "The risk of adverse developments to the firms human resource pool (key person risk / defections, under-performance)"
+                        },
+                        {
+                          "text": "Pension Liability Risk",
+                          "id": "The risk of unexpected required contributions to employee pension funds that cannot meet their required solvency standard on standalone basis"
+                        }
+                    ]
+                }
+            ]},
+        {
+            "text": "Business Model Risks",
+            "id": "The Business Process Risks category contains all non-contractual risks that threaten the firms business plan objectives",
+            "children": [
+                {
+                    "text": "Operational Risk",
+                    "id": "Operational risk concerns threats to the normal operations of the firm",
+                    "children": [
+                        {
+                          "text": "Damage and System Risk",
+                          "id": "The risk of unexpected loss as the result of physical damage to the firms assets or failure of its systems"
+                        },
+                        {
+                          "text": "Business Execution",
+                          "id": "The risk of loss as a result of poor or erroneous execution of regular business tasks"
+                        },
+                        {
+                          "text": "Internal Fraud Risk",
+                          "id": "The risk of unexpected loss as the result of fraudulent action of persons internal to the firm"
+                        },
+                        {
+                          "text": "External Fraud Risk",
+                          "id": "The risk of unexpected loss as the result of fraudulent action of persons external to the firm"
+                        },
+                        {
+                          "text": "Employment Practices Risk",
+                          "id": "The risk of unexpected loss as the result of employment practices followed by the firm which may not meet applicable laws and standards"
+                        }
+                    ]
+                },
+                {
+                    "text": "Revenue Risk",
+                    "id": "Revenue risk covers all risks pertaining to the ability to persist or grow profitable business operations",
+                    "children": [
+                        {
+                          "text": "Market Share Risk",
+                          "id": "The risk that product volumes (as relative market share) will deviate from business plan or budget, leading to unexpectedly lower revenues"
+                        },
+                        {
+                          "text": "Demand Risk",
+                          "id": "The risk of reduction in the wider market demand for the firms product and services as a result of factors external to the firm or its competitors"
+                        },
+                        {
+                          "text": "Margin Risk",
+                          "id": "The risk of lower profitability versus the business plan, as the result of tighter pricing (does not include funding cost component)"
+                        },
+                        {
+                          "text": "Costs Uncertainty",
+                          "id": "The risk of lower profitability versus the business plan as the result of higher origination costs due to external or internal factors"
+                        },
+                        {
+                          "text": "Strategy Risk",
+                          "id": "The risk that forward looking projects that modify the firms business plan fail to deliver the expected return versus investment"
+                        }
+                    ]
+                },
+                {
+                    "text": "Funding Risk",
+                    "id": "The funding risk category covers risks linked to uncertainty around the availability of future external funds for financing operations",
+                    "children": [
+                        {"text": "Wholesale Funding Risk",
+                          "id": "The risk of being unable to refinance via short term deposits in sufficient amounts or reasonable terms"
+                        },
+                        {"text": "Retail Deposit Risk",
+                          "id": "The risk of sudden volume reductions in deposits, or that required deposit rates to maintain volumes will rise unexpectedly in response to market or firm events"
+                        }
+                    ]
+                },
+                {
+                    "text": "Franchise Risk",
+                    "id": "Franchise risk captures the impact or external or internal risk factors on the perceived long term franchise value of the firm",
+                    "children": [
+                        {"text": "Legal Risk", "id": "The risk of losses arising from an unintentional or negligent failure to meet professional (legal, fiduciary) obligations to clients"},
+                        {"text": "Business Model Disruption Risk", "id": "The risk that competitors develop drastically alternative business models"},
+                        {"text": "Political Risk", "id": "The risk that the broader environment in which the firm operates will develop in directions  adverse to the firms business plan. Includes Regulatory Risk"}
+                    ]
+                }
+            ]
+        }
+    ]
+}
+
