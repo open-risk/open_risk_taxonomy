@@ -40,7 +40,7 @@
                         },
                         {
                           "text": "Correlation Risk",
-                          "id": "Risks linked to the correlation (dependency) of different markets"
+                          "id": "Risks linked to the correlation (dependency) of price levels in different markets"
                         },
                         {
                           "text": "Market Liquidity",
@@ -108,8 +108,8 @@
                 }
             ]},
         {
-            "text": "Business Model Risks",
-            "id": "The Business Process Risks category contains all non-contractual risks that threaten the firms business plan objectives",
+            "text": "Business Risks",
+            "id": "The Business Risks category contains all non-contractual risks that threaten the firms business plan objectives",
             "children": [
                 {
                     "text": "Operational Risk",
@@ -177,11 +177,20 @@
                 },
                 {
                     "text": "Franchise Risk",
-                    "id": "Franchise risk captures the impact or external or internal risk factors on the perceived long term franchise value of the firm",
+                    "id": "Franchise risk captures the impact of external or internal risk factors on the perceived long term franchise value of the firm",
                     "children": [
-                        {"text": "Legal Risk", "id": "The risk of losses arising from an unintentional or negligent failure to meet professional (legal, fiduciary) obligations to clients"},
-                        {"text": "Business Model Disruption Risk", "id": "The risk that competitors develop drastically alternative business models"},
-                        {"text": "Political Risk", "id": "The risk that the broader environment in which the firm operates will develop in directions  adverse to the firms business plan. Includes Regulatory Risk"}
+                        {
+                          "text": "Legal Risk",
+                          "id": "The risk of losses arising from an unintentional or negligent failure to meet professional (legal, fiduciary) obligations to clients, counterparties or employees"
+                        },
+                        {
+                          "text": "Business Model Risk",
+                          "id": "The risk that competitors develop drastically alternative business models for delivering similar goods or services"
+                        },
+                        {
+                          "text": "Political Risk",
+                          "id": "The risk that the broader environment in which the firm operates will develop in directions adverse to the firms business plan. Includes Regulatory Risk"
+                        }
                     ]
                 }
             ]
