@@ -9,7 +9,7 @@ set of open source _risk models_.
 The taxonomy consists of a set of files in declarative format (currently JSON)
 
 
-The taxonomy is also used as one of the organizing principles for entries in the [Open Risk Manual](http://www.openriskmanual.org/wiki/risk_manual/Risk_Taxonomy)
+The taxonomy is also used as one of the organizing principles for entries in the [Open Risk Manual](http://www.openriskmanual.org/wiki/Risk_Taxonomy)
 Other risk management uses may well be possible.
 
 ## Resources
