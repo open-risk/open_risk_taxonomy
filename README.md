@@ -12,11 +12,7 @@ The taxonomy consists of a set of files in declarative format (currently JSON)
 The taxonomy is also used as one of the organizing principles for entries in the [Open Risk Manual](http://www.openriskmanual.org/wiki/Risk_Taxonomy)
 Other risk management uses may well be possible.
 
-## Resources
-
-An interactive exploration of the taxonomy is available [here](https://www.openrisk.eu/risktaxonomy/index.php) .
-
 ## Further reading 
  
-You can read more about the conceptual approach to the taxonomy in the following [White Paper](https://www.openrisk.eu/WhitePapers/OpenRiskWP04_061415.pdf) .
+You can read more about the conceptual approach to the taxonomy in the following [White Paper](https://www.openriskmanagement.com/wp-content/uploads/2017/02/OpenRiskWP04_061415.pdf).
 
